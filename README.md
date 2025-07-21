@@ -101,16 +101,7 @@
 
 <h3><b>🔥 LeetCode Stats</b></h3>
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://leetcode-stats.vercel.app/api/Sampath_2211?theme=dark&line_height=30" alt="Sampath's LeetCode Stats" />
-      </td>
-      <td>
-        <img src="https://leetcode-stats.vercel.app/api/streak/Sampath_2211?theme=dark&date_format=M%20j" alt="Sampath's LeetCode Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://leetcode.card.workers.dev/Sampath_2211?theme=dark&font=Fira%20Code&extension=activity" alt="Sampath's LeetCode Stats" />
 </p>
 
 <br />
