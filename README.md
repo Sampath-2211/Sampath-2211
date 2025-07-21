@@ -18,10 +18,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Sampath-2211&show_icons=true&theme=dark&rank_icon=github&hide_border=true&count_private=true" alt="Sampath's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Sampath-2211&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" alt="Sampath's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampath-2211&theme=dark&hide_border=true" alt="Sampath's Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampath-2211&theme=tokyonight&hide_border=true" alt="Sampath's Most Used Languages" />
       </td>
     </tr>
     <tr>
