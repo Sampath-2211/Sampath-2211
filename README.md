@@ -24,6 +24,11 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampath-2211&theme=dark&hide_border=true" alt="Sampath's Most Used Languages" />
       </td>
     </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="350" src="https://leetcode.card.workers.dev/Sampath_2211?theme=dark&font=Fira%20Code&extension=activity" alt="Sampath's LeetCode Stats" />
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -96,13 +101,6 @@
   <img src="https://img.shields.io/badge/CN_Project-3867d6?style=for-the-badge&logo=github&logoColor=white" alt="CN Project" />
  </a>
 </div>
-
-<br />
-
-<h3><b>🔥 LeetCode Stats</b></h3>
-<p align="center">
-  <img src="https://leetcode.card.workers.dev/Sampath_2211?theme=dark&font=Fira%20Code&extension=activity" alt="Sampath's LeetCode Stats" />
-</p>
 
 <br />
 
