@@ -15,7 +15,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sampath-2211&show_icons=true&theme=dark&rank_icon=github&hide_border=true&count_private=true" alt="Sampath's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Sampath-2211&show_icons=true&theme=dark&rank_icon=github&hide_border=true&count_private=true&cache_seconds=3600" alt="Sampath's GitHub Stats" />
 </div>
 
 <br />
