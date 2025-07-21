@@ -91,10 +91,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://leetcode-stats.vercel.app/api/Sampath_2211?theme=dark" alt="LeetCode Stats" />
+        <img src="https://leetcode-stats.vercel.app/api/Sampath_2211?theme=dark" alt="Sampath's LeetCode Stats" />
       </td>
       <td>
-        <img src="https://leetcode-stats.vercel.app/api/streak/Sampath_2211?theme=dark" alt="LeetCode Streak" />
+        <img src="https://leetcode-stats.vercel.app/api/streak/Sampath_2211?theme=dark" alt="Sampath's LeetCode Streak" />
       </td>
     </tr>
   </table>
