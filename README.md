@@ -86,6 +86,22 @@
 
 <br />
 
+<h3><b>🔥 LeetCode Stats</b></h3>
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://leetcode-stats.vercel.app/api/Sampath_2211?theme=dark" alt="LeetCode Stats" />
+      </td>
+      <td>
+        <img src="https://leetcode-stats.vercel.app/api/streak/Sampath_2211?theme=dark" alt="LeetCode Streak" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+<br />
+
 <div>
  <h3><b>Featured Projects</b></h3>
  <p>Check out some of my key projects:</p>
