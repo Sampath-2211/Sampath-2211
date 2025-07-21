@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
- <a href="https://www.linkedin.com/in/sampath2211/" target="blank">
+ <a href="https://linkedin.in/sampath2211" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
  </a>
 </div>
@@ -18,10 +18,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Sampath-2211&show_icons=true&theme=dark&rank_icon=github&hide_border=true&count_private=true" alt="Sampath's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Sampath-2211&show_icons=true&theme=dracula&rank_icon=github&hide_border=true&count_private=true" alt="Sampath's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampath-2211&theme=dark&hide_border=true" alt="Sampath's Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampath-2211&theme=dracula&hide_border=true" alt="Sampath's Most Used Languages" />
       </td>
     </tr>
     <tr>
