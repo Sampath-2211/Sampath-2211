@@ -15,7 +15,16 @@
 <br />
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Sampath-2211&show_icons=true&theme=dark&rank_icon=github&hide_border=true&count_private=true&cache_seconds=3600" alt="Sampath's GitHub Stats" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Sampath-2211&show_icons=true&theme=dark&rank_icon=github&hide_border=true&count_private=true" alt="Sampath's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampath-2211&theme=dark&hide_border=true&layout=compact" alt="Sampath's Most Used Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
