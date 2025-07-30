@@ -89,8 +89,6 @@
  </ul>
 </details>
 
-<br />
-
 <div>
  <h3><b>Featured Projects</b></h3>
  <p>Check out some of my key projects:</p>
