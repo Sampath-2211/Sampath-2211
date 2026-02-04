@@ -89,17 +89,6 @@
  </ul>
 </details>
 
-<div>
- <h3><b>Featured Projects</b></h3>
- <p>Check out some of my key projects:</p>
- <a href="https://github.com/Sampath-2211/My-Coding-Journey">
-  <img src="https://img.shields.io/badge/My_Coding_Journey-3867d6?style=for-the-badge&logo=github&logoColor=white" alt="My Coding Journey" />
- </a>
- <a href="https://github.com/Sampath-2211/CN-Project">
-  <img src="https://img.shields.io/badge/CN_Project-3867d6?style=for-the-badge&logo=github&logoColor=white" alt="CN Project" />
- </a>
-</div>
-
 <br />
 
 <h3>🎯 Commitment Footprint</h3>
