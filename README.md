@@ -35,7 +35,7 @@
 <br />
 
 <h3><b>About Me</b></h3>
-<p>I'm a final-year student at <b>GITAM University, Bangalore</b>, and also a <b>BS Degree student in Data Science at IIT Madras</b>. My hands-on internship at <b>ISRO</b> is providing invaluable experience in applying AI to solve real-world challenges. My journey is driven by a relentless curiosity and a commitment to becoming a proficient Data Scientist.</p>
+<p>I'm a final-year student at <b>GITAM University, Bangalore</b>, and also a <b>BS Degree student in Data Science at IIT Madras</b>. My hands-on internship at <b>ISRO</b> is providing invaluable experience in applying AI to solve real-world challenges. My journey is driven by a relentless curiosity and a commitment to becoming a proficient AI Engineer.</p>
 
 <br />
 
