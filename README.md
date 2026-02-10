@@ -16,14 +16,6 @@
 
 <div align="center">
   <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Sampath-2211&show_icons=true&theme=dracula&rank_icon=github&hide_border=true&count_private=true" alt="Sampath's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampath-2211&theme=dracula&hide_border=true" alt="Sampath's Most Used Languages" />
-      </td>
-    </tr>
     <tr>
       <td colspan="2" align="center">
         <img width="300" src="https://leetcode.card.workers.dev/Sampath_2211?theme=dark&font=Fira%20Code&extension=activity" alt="Sampath's LeetCode Stats" />
