@@ -76,7 +76,7 @@
    </p>
   </td>
   <td width="50%" valign="top">
-   <h4><a href="https://github.com/Sampath-2211/prompt-optimizer">⚡ Prompt Optimizer</a></h4>
+   <h4><a href="https://github.com/Sampath-2211/prompt-optimizer">🔬 PromptLab</a></h4>
    <p>A tool for optimizing prompts to get better results from LLMs. Helps refine and improve prompt engineering workflows for more accurate and consistent AI outputs.</p>
    <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
