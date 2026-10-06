@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="330" viewBox="0 0 1280 330">
+  <rect width="1280" height="330" rx="24" fill="#0d1117"/>
+  <rect x="1" y="1" width="1278" height="328" rx="23" fill="none" stroke="#30363d"/>
+  <text x="54" y="60" fill="#f2cc60" font-family="Segoe UI,Inter,Arial" font-size="18" font-weight="700" letter-spacing="1.6">INDUSTRY / RESEARCH EXPERIENCE</text>
+  <text x="54" y="108" fill="#f0f6fc" font-family="Segoe UI,Inter,Arial" font-size="34" font-weight="750">NICES GEO · NRSC — ISRO</text>
+  <text x="54" y="145" fill="#8b949e" font-family="Segoe UI,Inter,Arial" font-size="19">Natural-language questions → satellite-data analysis workflows.</text>
+
+  <g font-family="Segoe UI,Inter,Arial">
+    <rect x="54" y="186" width="156" height="58" rx="13" fill="#161b22" stroke="#58a6ff"/>
+    <text x="132" y="220" text-anchor="middle" fill="#f0f6fc" font-size="15" font-weight="650">QUESTION</text>
+    <rect x="250" y="186" width="156" height="58" rx="13" fill="#161b22" stroke="#a371f7"/>
+    <text x="328" y="220" text-anchor="middle" fill="#f0f6fc" font-size="15" font-weight="650">AGENT GRAPH</text>
+    <rect x="446" y="186" width="156" height="58" rx="13" fill="#161b22" stroke="#39c5cf"/>
+    <text x="524" y="220" text-anchor="middle" fill="#f0f6fc" font-size="15" font-weight="650">SATELLITE DATA</text>
+    <rect x="642" y="186" width="156" height="58" rx="13" fill="#161b22" stroke="#3fb950"/>
+    <text x="720" y="220" text-anchor="middle" fill="#f0f6fc" font-size="15" font-weight="650">COMPUTE</text>
+    <rect x="838" y="186" width="156" height="58" rx="13" fill="#161b22" stroke="#d29922"/>
+    <text x="916" y="220" text-anchor="middle" fill="#f0f6fc" font-size="15" font-weight="650">VISUALIZE</text>
+    <path d="M210 215 H250 M406 215 H446 M602 215 H642 M798 215 H838" stroke="#6e7681" stroke-width="3"/>
+
+    <text x="1040" y="196" fill="#8b949e" font-size="14">VALIDATED ON</text>
+    <text x="1040" y="225" fill="#f0f6fc" font-size="20" font-weight="700">31 daily files</text>
+    <text x="1040" y="253" fill="#f0f6fc" font-size="20" font-weight="700">~6.45M values</text>
+  </g>
+  <text x="54" y="292" fill="#8b949e" font-family="Segoe UI,Inter,Arial" font-size="16">LangChain · LangGraph · Mistral 7B · Phi-3 Mini · FAISS · NetCDF · Docker</text>
+</svg>
