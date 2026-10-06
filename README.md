@@ -42,7 +42,7 @@ Designing and refining LLM extraction workflows for complex business documents �
 
 ---
 
-## ✦ Selected work
+## ✦ Projects
 
 <table>
 <tr>
@@ -71,9 +71,15 @@ Prompt refinement with multiple strategies and **dual evaluation**.
 
 ## 🛰 NRSC — ISRO
 
-**NICES GEO** — agentic geospatial analysis from natural-language questions to satellite-data processing.
+### AI Engineer Intern · NICES GEO
 
-`31 daily files` · `~6.45M values` · `LangGraph` · `FAISS` · `NetCDF`
+Built an **agentic geospatial analysis system** that translated natural-language questions into end-to-end satellite-data workflows — from understanding the request and discovering the data structure to computation, visualization, and the final response.
+
+Orchestrated **5 specialized processing nodes + 3 utility tools**, combining validated processing functions with LLM-generated code to keep the workflow flexible without leaving every step unconstrained.
+
+**Validated on:** `31 daily satellite files` · `~6.45M values` · automated statistics · trend + spatial visualizations
+
+`LangChain` · `LangGraph` · `Mistral 7B` · `Phi-3 Mini` · `FAISS` · `NetCDF` · `Docker`
 
 ---
 
