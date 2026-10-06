@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="390" viewBox="0 0 1280 390">
+  <rect width="1280" height="390" rx="24" fill="#0d1117"/>
+  <rect x="1" y="1" width="1278" height="388" rx="23" fill="none" stroke="#30363d"/>
+  <text x="54" y="62" fill="#a371f7" font-family="Segoe UI,Inter,Arial" font-size="18" font-weight="700" letter-spacing="1.6">FLAGSHIP PROJECT 02</text>
+  <text x="54" y="112" fill="#f0f6fc" font-family="Segoe UI,Inter,Arial" font-size="36" font-weight="750">PromptLab</text>
+  <text x="54" y="150" fill="#8b949e" font-family="Segoe UI,Inter,Arial" font-size="20">Turn vague intent into structured prompts — then challenge the result.</text>
+
+  <g font-family="Segoe UI,Inter,Arial">
+    <rect x="54" y="192" width="438" height="116" rx="14" fill="#161b22" stroke="#30363d"/>
+    <text x="76" y="221" fill="#a371f7" font-size="15" font-weight="700">WHY IT IS DIFFERENT</text>
+    <text x="76" y="250" fill="#c9d1d9" font-size="17">Four prompt variants are generated independently.</text>
+    <text x="76" y="275" fill="#c9d1d9" font-size="17">Quality is judged twice: rules + LLM.</text>
+    <text x="76" y="300" fill="#c9d1d9" font-size="17">Large disagreements are explicitly flagged.</text>
+  </g>
+
+  <g font-family="Segoe UI,Inter,Arial" font-size="14" font-weight="650">
+    <rect x="560" y="72" width="128" height="52" rx="12" fill="#161b22" stroke="#58a6ff"/>
+    <text x="624" y="103" text-anchor="middle" fill="#f0f6fc">VAGUE IDEA</text>
+    <rect x="732" y="72" width="128" height="52" rx="12" fill="#161b22" stroke="#a371f7"/>
+    <text x="796" y="103" text-anchor="middle" fill="#f0f6fc">INTERPRET</text>
+    <rect x="904" y="72" width="128" height="52" rx="12" fill="#161b22" stroke="#d29922"/>
+    <text x="968" y="103" text-anchor="middle" fill="#f0f6fc">CLARIFY</text>
+    <path d="M688 98 H732 M860 98 H904" stroke="#6e7681" stroke-width="3"/>
+
+    <rect x="548" y="176" width="118" height="48" rx="12" fill="#161b22" stroke="#58a6ff"/>
+    <text x="607" y="205" text-anchor="middle" fill="#f0f6fc">CoT</text>
+    <rect x="680" y="176" width="118" height="48" rx="12" fill="#161b22" stroke="#3fb950"/>
+    <text x="739" y="205" text-anchor="middle" fill="#f0f6fc">FEW-SHOT</text>
+    <rect x="812" y="176" width="118" height="48" rx="12" fill="#161b22" stroke="#a371f7"/>
+    <text x="871" y="205" text-anchor="middle" fill="#f0f6fc">ROLE</text>
+    <rect x="944" y="176" width="138" height="48" rx="12" fill="#161b22" stroke="#39c5cf"/>
+    <text x="1013" y="205" text-anchor="middle" fill="#f0f6fc">SPEC-DRIVEN</text>
+    <path d="M968 124 V150 H815 V176" fill="none" stroke="#6e7681" stroke-width="3"/>
+
+    <rect x="646" y="276" width="150" height="52" rx="12" fill="#161b22" stroke="#3fb950"/>
+    <text x="721" y="307" text-anchor="middle" fill="#f0f6fc">RULE SCORE</text>
+    <rect x="852" y="276" width="150" height="52" rx="12" fill="#161b22" stroke="#a371f7"/>
+    <text x="927" y="307" text-anchor="middle" fill="#f0f6fc">LLM JUDGE</text>
+    <path d="M815 224 V252 H721 V276 M815 252 H927 V276" fill="none" stroke="#6e7681" stroke-width="3"/>
+  </g>
+  <text x="54" y="350" fill="#8b949e" font-family="Segoe UI,Inter,Arial" font-size="16">Python · LangChain · Groq · Sentence Transformers · Streamlit</text>
+</svg>
