@@ -1,95 +1,59 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="Sampath Krishna Tekumalla — AI Engineer" src="./assets/hero-light.svg" width="100%">
-</picture>
+# Sampath Krishna Tekumalla
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sampath2211"><b>LinkedIn</b></a>
-  ·
-  <a href="https://github.com/Sampath-2211?tab=repositories"><b>Repositories</b></a>
-</p>
+**Prompt Engineer · AI Engineer**
+
+I turn messy documents and business rules into **reliable structured outputs with LLMs**.
 
 ---
 
-## About me
+## What I work on
 
-I’m an **AI Engineer** focused on making LLM systems more useful and reliable in real applications.
+Right now, my work is mostly **production prompt engineering for document extraction** — turning client requirements into prompts and rules that behave consistently across PDFs, spreadsheets, forms, schedules, and emails.
 
-I work on **agentic workflows, RAG, structured extraction, prompt engineering, evaluation, and deterministic validation** — especially where model outputs need to be traceable instead of simply trusted.
+`source hierarchy` · `fallback logic` · `normalization` · `deduplication` · `validation` · `regression testing`
 
----
+```text
+document → prompt + rules → model → validation → structured output
+```
 
-## Featured work
-
-### [Automated Resume Screening](https://github.com/Sampath-2211/Automated-Resume-Screening)
-
-An evidence-first resume evaluation system where meaningful AI scores must point back to verifiable content in the original PDF.
-
-**What it demonstrates**
-- 6-stage AI + deterministic pipeline
-- semantic retrieval over resume content
-- citation validation and hallucination checks
-- hidden-text / prompt-injection detection
-- before-vs-after score verification
-
-**Built with:** Python · Streamlit · Groq · Sentence Transformers · PyMuPDF · Tesseract
+I spend a lot of time on the parts that usually break: ambiguous sources, conflicting values, edge cases, model drift, and outputs that look correct but are not actually grounded.
 
 ---
 
-### [PromptLab](https://github.com/Sampath-2211/PromptLab)
+## How I think about prompts
 
-A prompt-engineering system that converts vague instructions into structured prompts and generates multiple prompting strategies independently.
+**A production prompt is a specification, not just wording.**
 
-**What it demonstrates**
-- intent interpretation and clarification
-- CoT, Few-Shot, Role-Based and Spec-Driven prompt generation
-- deterministic structural scoring
-- LLM-based evaluation
-- disagreement detection between both scoring methods
+```text
+intent + context + source priority + constraints + fallbacks + output contract
+```
 
-**Built with:** Python · Streamlit · LangChain · Groq · Sentence Transformers
+The goal is not to make an LLM sound smarter.  
+The goal is to make its behavior **more predictable, testable, and useful**.
 
 ---
 
-## NRSC — ISRO
+## Things I've built
 
-During my internship at **NRSC, ISRO**, I built **NICES GEO**, an agentic geospatial analysis workflow that converted natural-language questions into satellite-data processing pipelines.
+**[Automated Resume Screening](https://github.com/Sampath-2211/Automated-Resume-Screening)**  
+Evidence-backed resume scoring with citation verification and deterministic checks.
 
-It combined specialized processing nodes with validated functions and LLM-generated code for data discovery, loading, computation, visualization, and response generation.
-
-**Validation:** 31 daily satellite files · ~6.45M values · trend + spatial visualizations
-
-**Stack:** LangChain · LangGraph · Mistral 7B · Phi-3 Mini · FAISS · NetCDF · Docker
+**[PromptLab](https://github.com/Sampath-2211/PromptLab)**  
+Prompt refinement with multiple prompting strategies and dual evaluation.
 
 ---
 
-## Current focus
+## Earlier work
 
-My professional work centers on **structured extraction from complex business documents using LLMs**.
-
-That involves translating requirements into:
-- source hierarchy and precedence
-- fallback and exclusion rules
-- normalization and deduplication
-- validation constraints
-- regression testing across difficult document cases
-
-The goal is simple: **make probabilistic models behave predictably enough for real workflows.**
+**NRSC — ISRO · NICES GEO**  
+Built an agentic geospatial workflow that turned natural-language questions into satellite-data analysis; validated on **31 daily files / ~6.45M values**.
 
 ---
 
-## Core stack
+## I usually work with
 
-**LLM Systems:** LangChain · LangGraph · RAG · agentic workflows · structured extraction  
-**Reliability:** grounding · citation validation · deterministic checks · LLM evaluation  
-**Development:** Python · Flask · Streamlit · Docker · Git  
-**Retrieval / Data:** FAISS · Sentence Transformers · SQL · NetCDF  
-**Cloud / APIs:** AWS · GCP · Groq
+`Python` · `LangChain` · `LangGraph` · `RAG` · `FAISS` · `Sentence Transformers` · `Docker` · `AWS`
 
 ---
 
-<p align="center">
-  <b>Open to AI Engineer opportunities focused on agents, RAG, LLM workflows, evaluation, and applied AI.</b><br><br>
-  <a href="https://www.linkedin.com/in/sampath2211"><b>Connect with me on LinkedIn →</b></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/sampath2211) · [Repositories](https://github.com/Sampath-2211?tab=repositories)
