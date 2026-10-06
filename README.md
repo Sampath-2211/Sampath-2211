@@ -7,130 +7,89 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sampath2211"><b>LinkedIn</b></a>
   ·
-  <a href="https://github.com/Sampath-2211?tab=repositories"><b>Projects</b></a>
+  <a href="https://github.com/Sampath-2211?tab=repositories"><b>Repositories</b></a>
 </p>
 
 ---
 
-## ⚡ 10-second version
+## About me
 
-I’m an **AI Engineer** working on systems where LLMs have to do more than generate text.
+I’m an **AI Engineer** focused on making LLM systems more useful and reliable in real applications.
 
-My focus is the layer between **“the model answered”** and **“the answer is reliable enough to use”** — agentic workflows, structured extraction, RAG, grounding, evaluation, prompt engineering, and deterministic validation.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🧠 Build
-Agentic AI workflows, RAG pipelines, structured LLM extraction and prompt systems.
-
-</td>
-<td width="33%" valign="top">
-
-### 🛡️ Verify
-Citation checks, deterministic rules, fallback logic, grounding and hallucination controls.
-
-</td>
-<td width="33%" valign="top">
-
-### 🚀 Ship
-Python applications with Streamlit, LangChain/LangGraph, APIs, Docker and cloud tooling.
-
-</td>
-</tr>
-</table>
+I work on **agentic workflows, RAG, structured extraction, prompt engineering, evaluation, and deterministic validation** — especially where model outputs need to be traceable instead of simply trusted.
 
 ---
 
-# Selected Work
+## Featured work
 
-<a href="https://github.com/Sampath-2211/Automated-Resume-Screening">
-  <img src="./assets/resume-screening.svg" alt="Automated Resume Screening architecture" width="100%">
-</a>
+### [Automated Resume Screening](https://github.com/Sampath-2211/Automated-Resume-Screening)
 
-### Why I built it
+An evidence-first resume evaluation system where meaningful AI scores must point back to verifiable content in the original PDF.
 
-Most AI screening systems give you a score and ask you to trust it. I wanted the opposite: **every important score should be traceable back to evidence in the original resume**.
+**What it demonstrates**
+- 6-stage AI + deterministic pipeline
+- semantic retrieval over resume content
+- citation validation and hallucination checks
+- hidden-text / prompt-injection detection
+- before-vs-after score verification
 
-The system combines AI reasoning with deterministic verification. It retrieves relevant resume evidence, produces requirement-level scores, validates the model’s quoted proof, catches unsupported claims, detects hidden-text manipulation, and lets a reviewer jump back to the source PDF.
-
-**The part I care about most:** the AI is not the final authority — its output has to survive verification.
-
-**Explore → [Automated-Resume-Screening](https://github.com/Sampath-2211/Automated-Resume-Screening)**
-
----
-
-<a href="https://github.com/Sampath-2211/PromptLab">
-  <img src="./assets/promptlab.svg" alt="PromptLab architecture" width="100%">
-</a>
-
-### Why I built it
-
-Prompt quality is usually judged by feel. PromptLab turns that into a more explicit engineering process.
-
-It interprets vague intent, asks targeted clarifying questions, generates four independent prompt strategies, then evaluates the result using **two different perspectives**: deterministic structural scoring and an LLM judge. When those disagree materially, the system flags it instead of pretending the score is certain.
-
-**The idea:** use LLMs for judgment, but don’t let the LLM grade its own homework without a second signal.
-
-**Explore → [PromptLab](https://github.com/Sampath-2211/PromptLab)**
+**Built with:** Python · Streamlit · Groq · Sentence Transformers · PyMuPDF · Tesseract
 
 ---
 
-# Work Beyond GitHub
+### [PromptLab](https://github.com/Sampath-2211/PromptLab)
 
-<img src="./assets/nices-geo.svg" alt="NICES GEO agentic geospatial analysis workflow" width="100%">
+A prompt-engineering system that converts vague instructions into structured prompts and generates multiple prompting strategies independently.
 
-### NICES GEO · NRSC — ISRO
+**What it demonstrates**
+- intent interpretation and clarification
+- CoT, Few-Shot, Role-Based and Spec-Driven prompt generation
+- deterministic structural scoring
+- LLM-based evaluation
+- disagreement detection between both scoring methods
 
-During my internship at **NRSC, ISRO**, I built an agentic geospatial workflow that translated natural-language questions into satellite-data analysis.
-
-The workflow used specialized processing nodes for query understanding, data discovery, loading, computation, visualization, and natural-language response generation. I combined validated processing functions with LLM-generated code so the system could stay flexible without making every step unconstrained.
-
-One validation run processed **31 daily satellite files and ~6.45 million values**, automatically producing the requested statistic plus trend and spatial visualizations.
-
----
-
-# What I work on professionally
-
-My current work is centered on **LLM-based structured extraction from complex business documents**.
-
-That means turning real client requirements into extraction logic: source hierarchy, precedence, fallback rules, exclusions, normalization, deduplication, validation constraints, and edge-case handling — then testing model behavior across difficult documents and iterating when the outputs fail.
-
-It’s less about “writing prompts” and more about **engineering predictable behavior around probabilistic models**.
+**Built with:** Python · Streamlit · LangChain · Groq · Sentence Transformers
 
 ---
 
-# Engineering Toolbox
+## NRSC — ISRO
 
-| Area | Tools / Concepts |
-|---|---|
-| **LLM Systems** | LangChain, LangGraph, RAG, agentic workflows, structured extraction |
-| **Reliability** | grounding, citation validation, deterministic checks, fallback logic, LLM evaluation |
-| **Models / APIs** | Groq, Mistral, Phi, local LLM workflows |
-| **Retrieval** | FAISS, Sentence Transformers, semantic search |
-| **Backend / Apps** | Python, Flask, Streamlit |
-| **Infrastructure** | Docker, Git, AWS, GCP |
-| **Data** | SQL, NetCDF, document/PDF processing |
+During my internship at **NRSC, ISRO**, I built **NICES GEO**, an agentic geospatial analysis workflow that converted natural-language questions into satellite-data processing pipelines.
+
+It combined specialized processing nodes with validated functions and LLM-generated code for data discovery, loading, computation, visualization, and response generation.
+
+**Validation:** 31 daily satellite files · ~6.45M values · trend + spatial visualizations
+
+**Stack:** LangChain · LangGraph · Mistral 7B · Phi-3 Mini · FAISS · NetCDF · Docker
 
 ---
 
-# Smaller Experiments
+## Current focus
 
-These are intentionally smaller projects where I test one idea at a time.
+My professional work centers on **structured extraction from complex business documents using LLMs**.
 
-**[few-shot-translator](https://github.com/Sampath-2211/few-shot-translator)** — explores few-shot prompting and in-context style control.
+That involves translating requirements into:
+- source hierarchy and precedence
+- fallback and exclusion rules
+- normalization and deduplication
+- validation constraints
+- regression testing across difficult document cases
 
-**[personal-recruiter](https://github.com/Sampath-2211/personal-recruiter)** — maps resume evidence to job requirements and generates tailored application drafts.
+The goal is simple: **make probabilistic models behave predictably enough for real workflows.**
 
 ---
 
-<div align="center">
+## Core stack
 
-## I’m interested in AI Engineer roles where reliability matters.
+**LLM Systems:** LangChain · LangGraph · RAG · agentic workflows · structured extraction  
+**Reliability:** grounding · citation validation · deterministic checks · LLM evaluation  
+**Development:** Python · Flask · Streamlit · Docker · Git  
+**Retrieval / Data:** FAISS · Sentence Transformers · SQL · NetCDF  
+**Cloud / APIs:** AWS · GCP · Groq
 
-**Agents · RAG · LLM workflows · evaluation · structured extraction · applied AI**
+---
 
-<a href="https://www.linkedin.com/in/sampath2211"><b>Let’s connect on LinkedIn →</b></a>
-
-</div>
+<p align="center">
+  <b>Open to AI Engineer opportunities focused on agents, RAG, LLM workflows, evaluation, and applied AI.</b><br><br>
+  <a href="https://www.linkedin.com/in/sampath2211"><b>Connect with me on LinkedIn →</b></a>
+</p>
