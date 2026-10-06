@@ -2,88 +2,39 @@
 
 # Sampath Krishna Tekumalla
 
-### Prompt Engineer · AI Engineer
+### AI Engineer
 
-**Structured Extraction · LLM Evaluation · Agentic Workflows**
+Building reliable LLM systems across **agents, RAG, structured extraction, and evaluation**.
 
-I build and refine LLM workflows that turn messy business documents into reliable structured outputs.
+<p>
+  <code>Python</code> · <code>LangChain</code> · <code>LangGraph</code> · <code>RAG</code> · <code>LLM Evaluation</code> · <code>Docker</code>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/sampath2211) · [Repositories](https://github.com/Sampath-2211?tab=repositories)
+<a href="https://www.linkedin.com/in/sampath2211">LinkedIn</a> · <a href="https://github.com/Sampath-2211?tab=repositories">Repositories</a>
 
 </div>
 
 ---
 
-## Current work
+## 💼 Current work
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td>
 
-### 🧩 Prompt & Rule Design
+### Prompt Engineer · MEA Platform
 
-Turn client requirements into precise extraction logic.
+Designing and refining LLM extraction workflows for complex business documents — turning client requirements into prompts, rules, validations, and regression-tested outputs.
 
-`source priority`  
-`fallbacks`  
-`normalization`
+<br>
 
-</td>
-<td width="33%" valign="top">
+**I work on**
 
-### 🎯 Evaluation
+`Prompt design` · `Source precedence` · `Fallback logic` · `Normalization` · `Validation` · `Model testing`
 
-Test model outputs against difficult real-world document cases.
+<br>
 
-`edge cases`  
-`regression checks`  
-`model comparison`
-
-</td>
-<td width="33%" valign="top">
-
-### 🛡 Reliability
-
-Reduce hallucinations and inconsistent structured outputs.
-
-`validation`  
-`deduplication`  
-`grounding`
-
-</td>
-</tr>
-</table>
-
-**Typical workflow**
-
-`PDF / Spreadsheet / Form / Email` → `Prompt + Rules` → `LLM` → `Validation` → `Structured Output`
-
----
-
-## Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Automated Resume Screening](https://github.com/Sampath-2211/Automated-Resume-Screening)
-
-Evidence-backed candidate scoring where AI claims are checked against the original resume.
-
-**Highlights:** citation verification · semantic retrieval · hidden-text detection · deterministic checks
-
-**Stack:** Python · Streamlit · Sentence Transformers · PyMuPDF
-
-</td>
-<td width="50%" valign="top">
-
-### [PromptLab](https://github.com/Sampath-2211/PromptLab)
-
-Prompt optimization with multiple prompting strategies and independent evaluation.
-
-**Highlights:** intent clarification · prompt variants · deterministic scoring · LLM judge
-
-**Stack:** Python · LangChain · Groq · Sentence Transformers
+<sub>PDFs · spreadsheets · forms · schedules · emails → structured output</sub>
 
 </td>
 </tr>
@@ -91,28 +42,50 @@ Prompt optimization with multiple prompting strategies and independent evaluatio
 
 ---
 
-## Previous work
+## ✦ Selected work
 
-### NRSC — ISRO · NICES GEO
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Built an agentic geospatial workflow that converted natural-language questions into satellite-data analysis.
+### [Automated Resume Screening ↗](https://github.com/Sampath-2211/Automated-Resume-Screening)
 
-**31 daily files · ~6.45M values · automated statistics + visualizations**
+AI screening that **verifies its own evidence** before trusting a score.
 
-`LangChain` · `LangGraph` · `FAISS` · `NetCDF` · `Docker`
+`RAG` · `Citation Validation` · `Semantic Search` · `OCR`
+
+</td>
+<td width="50%" valign="top">
+
+### [PromptLab ↗](https://github.com/Sampath-2211/PromptLab)
+
+Prompt refinement with multiple strategies and **dual evaluation**.
+
+`Prompting` · `LLM Judge` · `Rule Scoring` · `LangChain`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Stack
+## 🛰 NRSC — ISRO
 
-`Python` · `LangChain` · `LangGraph` · `RAG` · `FAISS` · `Sentence Transformers` · `Docker` · `AWS`
+**NICES GEO** — agentic geospatial analysis from natural-language questions to satellite-data processing.
+
+`31 daily files` · `~6.45M values` · `LangGraph` · `FAISS` · `NetCDF`
 
 ---
 
-<div align="center">
+## → What I’m building toward
 
-**Interested in AI Engineer roles around LLM workflows, agents, RAG, evaluation, and structured extraction.**
+**Production AI systems** that combine LLM reasoning with retrieval, tools, validation, and deterministic logic.
 
-[Connect on LinkedIn →](https://www.linkedin.com/in/sampath2211)
+`AI Agents` · `RAG` · `Evaluation` · `Reliable LLM Workflows`
 
-</div>
+---
+
+<p align="center">
+  <b>AI Engineer · Applied LLM Systems</b><br>
+  <sub>Agents · RAG · Evaluation · Structured Extraction</sub>
+</p>
